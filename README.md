@@ -1,7 +1,8 @@
 # Photo Gallery
 
-[![License: MIT][license_badge]][license_link]
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTlpZThoYTVxcTdyc2IzdGQ4ZzRseWUxOXMybDRpdzN2N3l0bmZjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VSpkxLC0kR9Hc3YFw8/source.gif)
 
+[![License: MIT][license_badge]][license_link]
 Photo Gallery
 
 ---
